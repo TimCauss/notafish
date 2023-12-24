@@ -21,7 +21,8 @@ def clean_char(value):
     pass  # Define cleaner for spec characters
 
 
-# Refactor this module, it's for clean and prepare a mail to be read by an IA model.
+# Refactor this module, it's for clean and prepare a mail
+# to be read by an IA model.
 # Maybe use dict for listing function by cleaned object
 
 
